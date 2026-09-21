@@ -123,7 +123,7 @@ Numerados y secuenciales — el detalle narrativo de cada uno está en el [infor
 | Christian Tamayo | Data Scientist | [LinkedIn](https://www.linkedin.com/in/cantamayo21/) |
 | Deiberlyn Nin | Data Scientist | [LinkedIn](https://www.linkedin.com/in/deiberlyn-nin-b893b1432/) |
 | Sarah Henao | Scrum Master | [LinkedIn](https://www.linkedin.com/in/sarahenao/) |
-| Simón Bedoya | Data Scientist | [LinkedIn](https://www.linkedin.com/in/sim%C3%B3n-bedoya-05bb57398/) |
+| Simón Bedoya | Data Scientist | [LinkedIn](https://www.linkedin.com/in/simon-bedoya-montiel/) |
 | Verónica Iacono | Data Scientist | [LinkedIn](https://www.linkedin.com/in/veronica-iacono-69b0671a3/) |
 
 ## 🔭 Próximas mejoras
